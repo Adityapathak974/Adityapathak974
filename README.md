@@ -4,10 +4,10 @@
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw009ZPY1RmEAXlCU7C8Bs2O&ust=1698218709909000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCFwumTjoIDFQAAAAAdAAAAABAK"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapathak974&label=Profile%20views&color=0e75b6&style=flat" alt="adityapathak974" /> </p>
 
-•📕 I’m currently learning **Python, Go**
+• 📕 I’m currently learning **Python, Go**
 • 🔭 I’m currently focusing on upgrading skills 👨⌛️
-•🌱 Democratising the Kubernetes adoption 👨🏻‍💻
-•👯 Open to collaborate on open-source Projects 🤗
+• 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
+• 👯 Open to collaborate on open-source Projects 🤗
 
 - 📝 I regularly write Techical articles on medium.com [https://medium.com/@adityapathak033](https://medium.com/@adityapathak033)
 
