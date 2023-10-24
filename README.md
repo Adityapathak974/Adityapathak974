@@ -1,4 +1,4 @@
-
+![logo](https://github.com/adityapathak974/Adityapathak/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Aditya Pathak</h1>
 <h3 align="center">A passionate Cloud technolgy from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw009ZPY1RmEAXlCU7C8Bs2O&ust=1698218709909000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCFwumTjoIDFQAAAAAdAAAAABAK"
