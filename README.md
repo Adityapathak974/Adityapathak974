@@ -3,11 +3,9 @@
 <h3 align="center">A passionate Cloud technolgy from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw009ZPY1RmEAXlCU7C8Bs2O&ust=1698218709909000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCFwumTjoIDFQAAAAAdAAAAABAK"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapathak974&label=Profile%20views&color=0e75b6&style=flat" alt="adityapathak974" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapathak974&label=Profile%20views&color=0e75b6&style=flat" alt="adityapathak974" /> </p>
 
-• 📕 I’m currently learning **Python, Go**
-• 🔭 I’m currently focusing on upgrading skills 👨⌛️
-• 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
-• 👯 Open to collaborate on open-source Projects 🤗
+- 📕 I’m currently learning **Python, Go**
 
 - 📝 I regularly write Techical articles on medium.com [https://medium.com/@adityapathak033](https://medium.com/@adityapathak033)
 
@@ -24,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapathak974&show_icons=true&locale=en" alt="adityapathak974" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapathak974&" alt="adityapathak974" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapathak974&" alt="adityapathak974" /></p>
