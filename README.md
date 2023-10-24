@@ -7,6 +7,10 @@
 
 - 📕 I’m currently learning **Python, Go**
 
+- 🔭 I’m currently focusing on upgrading skills 👨⌛️
+  
+- 👯 Open to collaborate on open-source Projects 🤗
+
 - 📝 I regularly write Techical articles on medium.com [https://medium.com/@adityapathak033](https://medium.com/@adityapathak033)
 
 <h3 align="left">Connect with me:</h3>
